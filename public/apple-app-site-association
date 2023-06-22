@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": "J5J4JKP48R.br.com.opah.app.banknow",
+        "appIDs": "4CA48S4UDQ.br.com.opah.app.banknow",
         "components": [
           {
             "/": "/app/*",
