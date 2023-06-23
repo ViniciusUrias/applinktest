@@ -3,7 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appIDs": "4CA48S4UDQ.br.com.opah.app.banknow",
+        "appID": "4CA48S4UDQ.br.com.opah.app.banknow",
+        "paths": ["/"],
         "components": [
           {
             "/": "/app/*",
