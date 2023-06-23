@@ -1,17 +1,11 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "4CA48S4UDQ.br.com.opah.app.banknow",
-        "paths": ["/"],
-        "components": [
-          {
-            "/": "/app/*",
-            "comment": "Matches any URL with a path that starts with /app/*."
-          }
+    “applinks”: {
+        “apps”: [],
+        “details”: [
+            {
+                “appID”: “4CA48S4UDQ.br.com.opah.app.banknow”,
+                “paths”: [“*”],
+            }
         ]
-      }
-    ]
-  }
+    }
 }
