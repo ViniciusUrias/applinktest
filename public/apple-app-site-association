@@ -3,9 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "4CA48S4UDQ.br.com.opah.app.banknow",
+       "appID": "4CA48S4UDQ.br.com.opah.app.banknow",
         "paths": [
-          "/*"
+          "/app/*/events/nearme"
         ]
       }
     ]
